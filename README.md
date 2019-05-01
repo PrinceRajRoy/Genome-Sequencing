@@ -7,7 +7,7 @@ The Fasta file here is "EcoliGeneSequences.txt"
 
 Based on the file and certain conditions it gives the result as "Yes, It is a Fasta File" or "Not a Fasta file".
 
-##The necessary conditions for a Fasta file are :-
+## The necessary conditions for a Fasta file are :-
 
 1) Every Information Line Starts With A '>' Symbol.
 2) The Gene Sequence only contains 4 characters which are 'A', 'T', 'G' and 'C'.
@@ -16,6 +16,6 @@ Based on the file and certain conditions it gives the result as "Yes, It is a Fa
 
 After the validation of the file, it is compared with another file "GeneDetails.txt" and the information corresponding from both of these files is stored in the database.
 
-##Some Output Screenshots
+## Some Output Screenshots
 
 ![]()
