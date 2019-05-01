@@ -1,6 +1,6 @@
 # Genome-Sequencing
 
-A Gene Sequence Detector using Python which checks the gene sequences present in a Fasta file.
+A Gene Sequence Detector using Python And MySQL which checks the gene sequences present in a Fasta file.
 The GUI is basically made using Tkinter. It can be used by the user to upload the Fasta file.
 
 The Fasta file here is "EcoliGeneSequences.txt"
