@@ -18,4 +18,4 @@ After the validation of the file, it is compared with another file "GeneDetails.
 
 ## Some Output Screenshots
 
-![]()
+![](a/Screenshot%20(2708))
