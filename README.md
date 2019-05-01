@@ -18,4 +18,8 @@ After the validation of the file, it is compared with another file "GeneDetails.
 
 ## Some Output Screenshots
 
+The Tkinter Interface
 ![](a/Screenshot%20(2708).png)
+
+The Database
+![](a/records.png)
